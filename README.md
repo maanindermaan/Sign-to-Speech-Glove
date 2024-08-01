@@ -1,7 +1,3 @@
-Here's a README file for your "Sign To Speech Glove Project" for GitHub:
-
----
-
 # Sign To Speech Glove Project
 
 ## Project Overview
@@ -103,7 +99,3 @@ This project is licensed under the MIT License - see the [LICENSE](./LICENSE) fi
 ## Acknowledgments
 
 We would like to thank Thapar Institute of Engineering and Technology for providing the resources and support for this project.
-
----
-
-Feel free to adjust any details or formatting to better fit your project's needs!
