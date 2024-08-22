@@ -47,7 +47,7 @@ Thapar Institute of Engineering and Technology
 
 10. **Bluetooth Data Visualization**
     - **Description:** This script reads data from flex sensors and sends it over Bluetooth, allowing for real-time visualization and monitoring.
-    - **Code:** [`charcha_visualize_final.ino`](https://github.com/yourusername/yourrepository/blob/main/charcha_visualize_final.ino)
+    - **Code:** [`charcha_visualize_final.ino`](charcha_visualize_final.ino)
 
 **Models**
 
