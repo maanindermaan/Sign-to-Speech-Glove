@@ -35,7 +35,7 @@ Thapar Institute of Engineering and Technology
 
 7. **Data Logging for Analysis**
    - **Description:** This script logs data from the sensors to a CSV file for further analysis and training.
-   - **Code:** [`to_excel_charcha.py`](https://github.com/yourusername/yourrepository/blob/main/to_excel_charcha.py)
+   - **Code:** [`to_excel_charcha.py`](to_excel_charcha.py)
 
 8. **Training Data Model**
    - **Description:** This script trains a Random Forest model on the sensor data and saves the trained model and scaler for future predictions.
