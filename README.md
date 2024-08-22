@@ -18,7 +18,7 @@ Thapar Institute of Engineering and Technology
    - **Code:** [`accelerometer_tilt_detection.ino`](accelerometer_tilt_detection.ino)
 
 2. **Gyroscope Collision Detection using Arduino Nano 33 BLE Sense**
-   - **Code:** [`gyroscope_collision_detection.ino`](https://github.com/yourusername/yourrepository/blob/main/gyroscope_collision_detection.ino)
+   - **Code:** [`gyroscope_collision_detection.ino`](gyroscope_collision_detection.ino)
 
 3. **Flex Sensor Data Acquisition using Arduino**
    - **Code:** [`flex_sensor_data_acquisition.ino`](flex_sensor_data_acquisition.ino)
