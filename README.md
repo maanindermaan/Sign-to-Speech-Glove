@@ -21,7 +21,7 @@ Thapar Institute of Engineering and Technology
    - **Code:** [`gyroscope_collision_detection.ino`](https://github.com/yourusername/yourrepository/blob/main/gyroscope_collision_detection.ino)
 
 3. **Flex Sensor Data Acquisition using Arduino**
-   - **Code:** [`flex_sensor_data_acquisition.ino`](https://github.com/yourusername/yourrepository/blob/main/flex_sensor_data_acquisition.ino)
+   - **Code:** [`flex_sensor_data_acquisition.ino`](flex_sensor_data_acquisition.ino)
 
 4. **Creating a CSV File of Data Gathered using Sensors**
    - **Code:** [`create_csv.py`](create_csv.py)
