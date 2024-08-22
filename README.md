@@ -43,7 +43,7 @@ Thapar Institute of Engineering and Technology
 
 9. **Calibration and Data Capture**
    - **Description:** This script handles calibration of flex sensors and captures the necessary data for training and prediction.
-   - **Code:** [`charcha_final1.ino`](https://github.com/yourusername/yourrepository/blob/main/charcha_final1.ino)
+   - **Code:** [`charcha_final1.ino`](charcha_final1.ino)
 
 10. **Bluetooth Data Visualization**
     - **Description:** This script reads data from flex sensors and sends it over Bluetooth, allowing for real-time visualization and monitoring.
