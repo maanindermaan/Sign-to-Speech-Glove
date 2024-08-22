@@ -1,4 +1,4 @@
-**Sign To Speech Glove Project**
+# Sign To Speech Glove Project
 
 **Project Overview**  
 This project involves the development of a Sign to Speech Glove that utilizes various sensors to translate hand gestures into spoken words. The glove integrates accelerometers, gyroscopes, and flex sensors to capture finger movements and hand orientations, which are then processed and converted into speech output.
