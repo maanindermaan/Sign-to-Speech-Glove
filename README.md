@@ -15,7 +15,7 @@ Thapar Institute of Engineering and Technology
 **Project Components**
 
 1. **Accelerometer Tilt Detection using Arduino Nano 33 BLE Sense**
-   - **Code:** [`accelerometer_tilt_detection.ino`](https://github.com/yourusername/yourrepository/blob/main/accelerometer_tilt_detection.ino)
+   - **Code:** [`accelerometer_tilt_detection.ino`]([https://github.com/yourusername/yourrepository/blob/main/accelerometer_tilt_detection.ino](https://github.com/maanindermaan/Sign-to-Speech-Glove/blob/main/accelerometer_tilt_detection.ino))
 
 2. **Gyroscope Collision Detection using Arduino Nano 33 BLE Sense**
    - **Code:** [`gyroscope_collision_detection.ino`](https://github.com/yourusername/yourrepository/blob/main/gyroscope_collision_detection.ino)
