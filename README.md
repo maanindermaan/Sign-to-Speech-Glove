@@ -31,7 +31,7 @@ Thapar Institute of Engineering and Technology
 
 6. **Test Data Processing and Prediction**
    - **Description:** This script reads sensor data from the Arduino, processes it, and uses a trained model to predict gestures, converting the prediction to speech.
-   - **Code:** [`testdata.py`](https://github.com/yourusername/yourrepository/blob/main/testdata.py)
+   - **Code:** [`testdata.py`](test_data.py)
 
 7. **Data Logging for Analysis**
    - **Description:** This script logs data from the sensors to a CSV file for further analysis and training.
