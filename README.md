@@ -39,7 +39,7 @@ Thapar Institute of Engineering and Technology
 
 8. **Training Data Model**
    - **Description:** This script trains a Random Forest model on the sensor data and saves the trained model and scaler for future predictions.
-   - **Code:** [`train_data.py`](https://github.com/yourusername/yourrepository/blob/main/train_data.py)
+   - **Code:** [`train_data.py`](train_data.py)
 
 9. **Calibration and Data Capture**
    - **Description:** This script handles calibration of flex sensors and captures the necessary data for training and prediction.
