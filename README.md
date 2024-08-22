@@ -27,7 +27,7 @@ Thapar Institute of Engineering and Technology
    - **Code:** [`create_csv.py`](https://github.com/yourusername/yourrepository/blob/main/create_csv.py)
 
 5. **Comprehensive Sensor Data Monitoring with Flex Sensors and IMU**
-   - **Code:** [`comprehensive_sensor_monitoring.ino`](https://github.com/yourusername/yourrepository/blob/main/comprehensive_sensor_monitoring.ino)
+   - **Code:** [`comprehensive_sensor_monitoring.ino`](comprehensive_sensor_monitoring.ino)
 
 6. **Test Data Processing and Prediction**
    - **Description:** This script reads sensor data from the Arduino, processes it, and uses a trained model to predict gestures, converting the prediction to speech.
