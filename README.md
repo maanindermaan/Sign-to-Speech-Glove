@@ -24,7 +24,7 @@ Thapar Institute of Engineering and Technology
    - **Code:** [`flex_sensor_data_acquisition.ino`](https://github.com/yourusername/yourrepository/blob/main/flex_sensor_data_acquisition.ino)
 
 4. **Creating a CSV File of Data Gathered using Sensors**
-   - **Code:** [`create_csv.py`](https://github.com/yourusername/yourrepository/blob/main/create_csv.py)
+   - **Code:** [`create_csv.py`](create_csv.py)
 
 5. **Comprehensive Sensor Data Monitoring with Flex Sensors and IMU**
    - **Code:** [`comprehensive_sensor_monitoring.ino`](comprehensive_sensor_monitoring.ino)
