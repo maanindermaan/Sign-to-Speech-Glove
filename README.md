@@ -51,8 +51,8 @@ Thapar Institute of Engineering and Technology
 
 **Models**
 
-- [`serial_classifier_model.pkl`](https://github.com/yourusername/yourrepository/blob/main/serial_classifier_model.pkl)
-- [`serial_classifier_scaler.pkl`](https://github.com/yourusername/yourrepository/blob/main/serial_classifier_scaler.pkl)
+- [`serial_classifier_model.pkl`](serial_classifier_model.pkl)
+- [`serial_classifier_scaler.pkl`](serial_classifier_scaler.pkl)
 
 **Requirements**
 - **Hardware:**
